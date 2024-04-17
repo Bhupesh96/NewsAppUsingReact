@@ -1,1 +1,28 @@
 News Api : c4e68450cdfb4b35b8632432074413c9
+
+
+<Route path="/businessent">
+          <News pageSize={5} country="in" category="sports"/>
+          </Route>
+<Route path="/ertainment">
+          <News pageSize={5} country="in" category="sports"/>
+          </Route>
+<Route path="/general">
+          <News pageSize={5} country="in" category="sports"/>
+          </Route>
+<Route path="/health">
+          <News pageSize={5} country="in" category="sports"/>
+          </Route>
+<Route path="/science">
+          <News pageSize={5} country="in" category="sports"/>
+          </Route>
+<Route path="/sports">
+          <News pageSize={5} country="in" category="sports"/>
+          </Route>
+<Route path="/technology">
+          <News pageSize={5} country="in" category="sports"/>
+          </Route>
+
+<Route path="/about">
+          <News pageSize={5} country="in" category="sports"/>
+          </Route>
